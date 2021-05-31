@@ -1,0 +1,26 @@
+{
+  "name": "12-employee-tracker-kunal",
+  "version": "1.0.0",
+  "description": "This is backend for employee tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalc156/12-Employee-Tracker-Kunal.git"
+  },
+  "author": "kunal choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalc156/12-Employee-Tracker-Kunal/issues"
+  },
+  "homepage": "https://github.com/kunalc156/12-Employee-Tracker-Kunal#readme"
+}
